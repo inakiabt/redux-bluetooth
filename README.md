@@ -21,8 +21,16 @@ $ yarn install # or npm install
 ```
 
 # TODO
+<<<<<<< Updated upstream
 - dotenv
 - https://github.com/vadimdemedes/ink
 - bundlesize
 - Prepack
 - https://greenkeeper.io/
+=======
+- [ ] dotenv
+- [ ] https://github.com/vadimdemedes/ink
+- [x] bundlesize
+- [ ] Prepack
+- [ ] https://greenkeeper.io/
+>>>>>>> Stashed changes
